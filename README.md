@@ -12,3 +12,4 @@ Welcome to my github account! I am a second year student at the [Norwegian Unive
 ![JavaScript](https://img.shields.io/static/v1?style=flat&message=JavaScript&color=373e47&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=373e47&logo=Firebase&logoColor=FFCA28&label=)
 ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=373e47&logo=Git&logoColor=F1502F&label=)
+![Arduino](https://img.shields.io/static/v1?style=flat&message=Arduino&color=373e47&logo=Arduino&logoColor=038C8C&label=)
