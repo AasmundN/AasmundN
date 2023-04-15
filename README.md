@@ -1,6 +1,6 @@
 ## Hey devs!
 
-Welcome to my github account! I am a second year student at the [Norwegian University of Science and Techology](https://www.ntnu.no/). On the side I work with web development in my part time job at [Company of Things](cot.as), as well as in my involvement in my student organization [Omega](omega.ntnu.no), and personal projects.
+Welcome to my github account! I am a second year student at the [Norwegian University of Science and Technology](https://www.ntnu.no/). When I'm not studying I work with web development in my part time job at [Company of Things](cot.as), in addition to my involvement in the student organization [Omega](omega.ntnu.no), and personal projects.
 
 ### Technologies that I work with
 
